@@ -17,8 +17,8 @@ my Keybindings for VSCode
 //Vim like moves
 
   //==================================
-  // VIM like hjkl
-  // ctrl + k = Cursor Up
-  // ctrl + j = Cursor Down
-  // ctrl + h = Cursor Left
-  // ctrl + l = Cursor Right
+ VIM like hjkl
+  ctrl + k = Cursor Up
+  ctrl + j = Cursor Down
+  ctrl + h = Cursor Left
+  ctrl + l = Cursor Right
