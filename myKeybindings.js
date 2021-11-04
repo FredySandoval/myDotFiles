@@ -129,4 +129,10 @@
   //     "when": "editorTextFocus && !editorReadonly"
   // },
   //================================
+  // If vim extention is install this exits the vim insert mode and map it to alt+l
+   {
+        "key": "alt+l",
+        "command": "extension.vim_escape",
+        "when": "editorTextFocus && vim.active && vim.mode == 'Insert'"
+    }
 ]
