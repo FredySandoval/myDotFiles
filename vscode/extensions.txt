@@ -1,0 +1,3 @@
+GitHub.copilot-labs
+GitHub.copilot-nightly
+vscodevim.vim
